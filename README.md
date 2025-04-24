@@ -1,0 +1,2 @@
+# JARVIS-Empowering-Access-and-Enhancing-Usability-Through-Smart-Voice-Assistance
+JARVIS is an AI-powered voice assistant built to enhance digital accessibility and streamline user interaction with the web through intuitive voice commands. Designed with a social impact mindset, JARVIS helps users—especially those from underserved communities—easily discover local job opportunities, access free education, make template resume to.
